@@ -16,4 +16,4 @@
 
 🔗 LinkedIn profile: https://www.linkedin.com/in/callmemapa/
 
-✒ Platzi profile: https://platzi.com/p/mariapaulamosquerarengifo1/
+✒ Platzi profile: https://platzi.com/p/callmemapa/
