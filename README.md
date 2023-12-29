@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Maria Paula, Mapa, Maria, Pau, Maria Pau... or as my username says: callmemapa
 
-🔭 I’m FrontEnd Developer Junior and I love the technology.
+🔭 I’m FrontEnd Developer.
 
 🌱 I’m currently learning about FrontEnd Technologies. I like and I work with:
 - HTML
@@ -10,7 +10,8 @@
 - TypeScript
 - Angular
 - Angular Material
-- Firebase
+- ReactJS
+- MaterialUI
 
 📫 How to reach me: mariapaulamosquerarengifo@gmail.com
 
