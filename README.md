@@ -23,11 +23,13 @@ I'm a passionate front-end developer with a strong eye for design and a love for
 ![Bitbucket](https://img.shields.io/badge/bitbucket-blue?style=flat-square&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white)
 
-#### Security scan
+#### Security
 ![SonarQube](https://img.shields.io/badge/sonarqube-black?style=flat-square&logo=sonarqube&logoColor=white)
+![ZAP](https://img.shields.io/badge/zaproxy-blue?style=flat-square&logo=zap&logoColor=white)
 
 #### Cloud services
 ![AWS lambda](https://img.shields.io/badge/aws-orange?style=flat-square&logo=awslambda&logoColor=white&label=lambda)
+![AWS API Gateway](https://img.shields.io/badge/aws-orange?style=flat-square&logo=amazonapigateway&logoColor=white&label=api%20gateway)
 ![AWS cloudwatch](https://img.shields.io/badge/aws-orange?style=flat-square&logo=amazoncloudwatch&logoColor=white&label=cloudwatch)
 
 #### Tools
