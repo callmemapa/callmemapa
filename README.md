@@ -5,7 +5,7 @@ I'm a passionate front-end developer with a strong eye for design and a love for
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callmemapa/)
 
 ### Skills
-#### Frontend
+#### Frontend development
 ![HTML5](https://img.shields.io/badge/html5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-blue?style=flat-square&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=Javascript&logoColor=white)
@@ -15,7 +15,7 @@ I'm a passionate front-end developer with a strong eye for design and a love for
 ![Bootstrap](https://img.shields.io/badge/bootstrap-indigo?style=flat-square&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/mui-blue?style=flat-square&logo=mui&logoColor=white)
 
-#### Backend
+#### Backend development
 ![NodeJS](https://img.shields.io/badge/nodejs-green?style=flat-square&logo=node.js&logoColor=white)
 
 #### Version control
@@ -28,6 +28,7 @@ I'm a passionate front-end developer with a strong eye for design and a love for
 
 #### Cloud services
 ![AWS lambda](https://img.shields.io/badge/aws-orange?style=flat-square&logo=awslambda&logoColor=white&label=lambda)
+![AWS cloudwatch](https://img.shields.io/badge/aws-orange?style=flat-square&logo=amazoncloudwatch&logoColor=white&label=cloudwatch)
 
 #### Tools
 ![Visual Studio Code](https://img.shields.io/badge/visualstudio-blue?style=flat-square&logo=visualstudiocode&logoColor=white)
