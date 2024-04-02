@@ -1,20 +1,8 @@
-### Hi there 👋 I'm Maria Paula, Mapa, Maria, Pau, Maria Pau... or as my username says: callmemapa
+## Hi there 👋 I'm Maria Paula
+### About me
 
-🔭 I’m FrontEnd Developer.
+### Skills
+  ![]([https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))
 
-🌱 I’m currently learning about FrontEnd Technologies. I like and I work with:
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- TypeScript
-- Angular
-- Angular Material
-- ReactJS
-- MaterialUI
-
-📫 How to reach me: mariapaulamosquerarengifo@gmail.com
-
-🔗 LinkedIn profile: https://www.linkedin.com/in/callmemapa/
-
-✒ Platzi profile: https://platzi.com/p/callmemapa/
+### Social media
+  ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
