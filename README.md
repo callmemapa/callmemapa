@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Maria Paula
 ### About me
-I'm a passionate front-end developer with a strong eye for design and a love for creating intuitive and engaging user interfaces. I have experience with HTML, CSS, Javascript and Typscript, as well as popular front-end frameworks like React and Angular. I am also proficient in responsive web design and UX/UI principles. I am always looking for new challenges and opportunities to learn and grow as a developer. I am confident that I can be a valuable asset to your team.
+I'm a passionate front-end developer with a strong eye for design and a love for creating user interfaces. I have experience with HTML, CSS, Javascript and Typscript, as well as popular front-end frameworks like React and Angular. I am also proficient in responsive web design and UX/UI principles. I am always looking for new challenges and opportunities to learn and grow as a developer.
 
 ### Social media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/callmemapa/)
